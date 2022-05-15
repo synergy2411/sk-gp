@@ -1,0 +1,25 @@
+{
+  "name": "01-graphql-basics",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "SumitK",
+  "license": "ISC",
+  "dependencies": {
+    "@graphql-tools/schema": "^8.3.11",
+    "apollo-server": "^3.7.0",
+    "apollo-server-core": "^3.7.0",
+    "apollo-server-express": "^3.7.0",
+    "express": "^4.18.1",
+    "graphql": "^16.5.0",
+    "graphql-subscriptions": "^2.0.0",
+    "graphql-ws": "^5.8.2",
+    "jsonwebtoken": "^8.5.1",
+    "uuid": "^8.3.2",
+    "ws": "^8.6.0"
+  }
+}
